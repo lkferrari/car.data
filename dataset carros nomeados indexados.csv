@@ -1,4 +1,4 @@
-Nome;Ano de Fabricacao;Preco;Manutencao;Qtd Portas;Qtd Passageiros;Tamanho Porta Malas;Nivel de Seguranca
+Nome;Ano de Fabricacao;buying;maint;doors;persons;lug_boot;safety
 Volkswagen Kombi Standard 1.4;2021;1;2;1;2;2;0
 Fiat Mobi 1.0 Easy;2022;0;0;3;2;0;1
 Ford Ka SE Plus;2022;0;0;3;2;0;1
